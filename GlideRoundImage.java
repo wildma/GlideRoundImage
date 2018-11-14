@@ -11,9 +11,6 @@ import android.graphics.RectF;
 import com.bumptech.glide.load.engine.bitmap_recycle.BitmapPool;
 import com.bumptech.glide.load.resource.bitmap.BitmapTransformation;
 
-/**
- * Created by Xinhao-Android on 2016/6/28.
- */
 
 public class GlideRoundImage extends BitmapTransformation {
 
